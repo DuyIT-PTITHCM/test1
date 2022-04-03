@@ -15,3 +15,5 @@ hello
 cac
 ban
 nha
+hay ne
+lao ne
